@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @agamsinghtinna
+- 👀 I’m interested in  leveraging analytical skills for impactful data and analytics projects. Currently pursuing an MBA with a specialization in Business Analytics.
+- 🌱 I’m currently learning AWS Cloud Computing
+- 💞️ I'm looking to collaborate on projects related to data analytics, business intelligence, and machine learning.
+- 📫 How to reach me - agamsinghtinna@gmail.com
